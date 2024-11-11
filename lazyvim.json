@@ -1,0 +1,10 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.blink",
+    "lazyvim.plugins.extras.editor.illuminate"
+  ],
+  "news": {
+    "NEWS.md": "7107"
+  },
+  "version": 6
+}
